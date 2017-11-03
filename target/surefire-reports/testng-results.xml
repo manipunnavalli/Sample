@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21430" started-at="2017-06-28T15:49:15Z" finished-at="2017-06-28T15:49:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21430" started-at="2017-06-28T15:49:15Z" finished-at="2017-06-28T15:49:36Z">
+      <class name="mvnpractice.Mvnpractice">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:mvnpractice.Mvnpractice@1b64c45]" name="testSetUp" is-config="true" duration-ms="15376" started-at="2017-06-28T21:19:15Z" finished-at="2017-06-28T21:19:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:mvnpractice.Mvnpractice@1b64c45]" name="verifyGooglePageTittle" duration-ms="3904" started-at="2017-06-28T21:19:30Z" finished-at="2017-06-28T21:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageTittle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mvnpractice.Mvnpractice@1b64c45]" name="tearDown" is-config="true" duration-ms="2054" started-at="2017-06-28T21:19:34Z" finished-at="2017-06-28T21:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mvnpractice.Mvnpractice -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
